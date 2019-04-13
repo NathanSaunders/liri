@@ -6,9 +6,9 @@ LIRI is like iPhone's SIRI. While SIRI is a Speech Interpretation and Recognitio
 
 ### How it works
 
-Using specific commands in node.js will return information collected from the API and return data to your terminal.
+Using specific commands in node.js, LIRI Bot will return information collected from the API and return data to your terminal.
 
-`spotify-this-song` command uses data from Spotify
+`spotify-this-song` command pulls data from Spotify
 <img width="685" alt="spotify-this-song-screenshot" src="https://user-images.githubusercontent.com/43506553/56073170-beb9e280-5d54-11e9-804c-8d82ba7138db.png">
 
 'movie-this' command draws from OMDB
@@ -19,3 +19,7 @@ Using specific commands in node.js will return information collected from the AP
 
 While the `do-what-it-says` will pull from the random.txt file. In this case, it's populated with Frank.
 <img width="685" alt="rando-do-what-it-says-screenshot" src="https://user-images.githubusercontent.com/43506553/56073317-96cb7e80-5d56-11e9-8921-31b1812d6970.png">
+
+### Technologies Used
+
+*Node.js
