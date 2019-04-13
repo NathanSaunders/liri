@@ -23,3 +23,10 @@ While the `do-what-it-says` will pull from the random.txt file. In this case, it
 ### Technologies Used
 
 *Node.js
+*JavsScript
+*Request
+*Moment
+*Dotenv
+*Spotify Node API
+*OMDB API
+*Bands In Town API
